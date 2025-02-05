@@ -36,7 +36,7 @@ export function Details() {
             transition={{ duration: 0.3 }}
           >
             <img
-              src="/src/assets/images/dresscodef.png"
+              src="https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.15752-9/476247573_486448871170388_996685332661834963_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=WldXfih_fDcQ7kNvgFnUAPZ&_nc_oc=AdhHu5XBEMSYLT2qXIDRp8-EA3_vKqoahRqPmqBk8pM1mAQaoidM-xTREAt3Ea8WGyw&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&oh=03_Q7cD1gGf21JpIa5M_siWLdLj-jb0BS_FQ61v48pFlMmIjCSbBA&oe=67CB0F14"
               alt="Formal attire example"
               className="w-full h-full object-cover object-center"
             />

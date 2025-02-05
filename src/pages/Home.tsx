@@ -61,7 +61,7 @@ export function Home() {
       <div className="relative h-screen">
         <div className="absolute inset-0">
           <img
-            src="src/assets/images/bggg.jpg"
+            src="https://cdn.pixabay.com/photo/2016/11/22/19/05/couple-1850073_1280.jpg"
             alt="Wedding venue"
             className="w-full h-full object-cover"
           />
